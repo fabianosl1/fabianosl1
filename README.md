@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Desenvolvedor com enfase em backend, atuando com NodeJS e Java.</p>
+<p align="left">Desenvolvedor com foco em backend, atuando principalmente com Node.js e Java.</p>
 
 ###
 
