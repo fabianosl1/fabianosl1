@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 Estudando .NET<br>🎓 Graduando em Sistemas de Informação<br>🍕 Pizza favorita é frango com catupiry</p>
+<p align="left">📚 Estudando .NET<br>🎓 Graduando em Sistemas de Informação</p>
 
 ###
 
