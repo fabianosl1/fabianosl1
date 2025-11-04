@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 Estudando .NET<br>🎓 Graduando em Sistemas de Informação</p>
+🎓 Graduando em Sistemas de Informação</p>
 
 ###
 
