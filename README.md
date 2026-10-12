@@ -28,4 +28,4 @@ Tenho interesse em arquitetura de software, sistemas distribuídos, microsservi�
 
 ### 🚀 Áreas de interesse
 
-`Backend` · `Arquitetura de software` · `Sistemas distribuido ` · `Cloud`
+`Backend` · `Arquitetura de software` · `Sistemas distribuido` · `Cloud`
